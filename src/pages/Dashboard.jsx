@@ -4,6 +4,7 @@ import ChartSection from "../components/mainSection/ChartSection";
 import Highlights from "../components/highlights/Highlights";
 import Header from "../components/header/Header";
 import QuickAction from "../components/mainSection/QuickAction";
+import HighPriority from "../components/mainSection/HighPriority";
 
 const Dashboard = () => {
   return (
@@ -14,6 +15,7 @@ const Dashboard = () => {
         <div className="flex-grow">
           <ChartSection />
           <QuickAction />
+          <HighPriority />
         </div>
       </div>
       <Highlights />
