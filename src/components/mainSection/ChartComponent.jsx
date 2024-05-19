@@ -35,11 +35,11 @@ const ChartComponent = () => {
 
   return (
     <div
-      className="text- font-semibold flex flex-col bg-[#FFFFFF] h-[330px] py-3 rounded-xl"
+      className="text- font-semibold flex flex-col bg-[#FFFFFF] h-[280px] py-3 rounded-xl"
       style={{ boxShadow: "rgba(0, 0, 0, 0.05) 0px 1px 2px 0px" }}
     >
       <div className="w-[100%] pl-4">Orders</div>
-      <div className="w-[80%]">
+      <div className="w-[80%] mx-auto">
         <Chart options={options} series={series} type="donut" />
       </div>
       <div className="flex flex-col gap-2  w-[200px] mx-auto mt-2">

@@ -12,7 +12,7 @@ const Dashboard = () => {
       <Sidebar />
       <div className="main  mt-5 ">
         <Header />
-        <div className="flex-grow">
+        <div className="">
           <ChartSection />
           <QuickAction />
           <HighPriority />
