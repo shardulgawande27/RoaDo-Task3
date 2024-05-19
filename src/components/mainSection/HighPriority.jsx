@@ -10,7 +10,7 @@ const HighPriority = () => {
         <div className="flex gap-5 max-md:flex-col max-md:gap-0">
           <div className="flex flex-col w-6/12 max-md:ml-0 max-md:w-full">
             <div className="flex flex-col grow p-3 mx-auto w-full bg-white rounded-2xl shadow-sm max-md:mt-10">
-              <div className="flex gap-2 text-neutral-900">
+              <div className="flex gap-4 text-neutral-900">
                 <div className="shrink-0 w-8 shadow-sm aspect-square">
                   <svg
                     width="40"
@@ -107,7 +107,7 @@ const HighPriority = () => {
           </div>
           <div className="flex flex-col ml-5 w-6/12 max-md:ml-0 max-md:w-full">
             <div className="flex flex-col grow p-3 mx-auto w-full bg-white rounded-2xl shadow-sm max-md:mt-10">
-              <div className="flex gap-2 text-neutral-900">
+              <div className="flex gap-4 text-neutral-900">
                 <div className="shrink-0 w-8 shadow-sm aspect-square">
                   <svg
                     width="36"
