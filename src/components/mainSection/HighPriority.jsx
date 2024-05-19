@@ -81,7 +81,7 @@ const HighPriority = () => {
                     <div className="flex-auto text-sm font-medium">
                       Driver Raised Concern
                     </div>
-                    <div className="text-xs">13 Fab 24</div>
+                    <div className="text-xs">13 Feb 24</div>
                   </div>
                   <div className="flex gap-2.5 mt-2.5 text-xs">
                     <div>Load No : 12454,</div>
@@ -177,7 +177,7 @@ const HighPriority = () => {
                     <div className="flex-auto text-sm font-medium">
                       Reefer Temp. out of range
                     </div>
-                    <div className="text-xs">13 Fab 24</div>
+                    <div className="text-xs">13 Feb 24</div>
                   </div>
                   <div className="flex gap-2.5 mt-1.5 text-xs">
                     <div>Load No : 12454,</div>
